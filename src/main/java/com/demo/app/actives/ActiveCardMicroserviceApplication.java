@@ -17,6 +17,7 @@ public class ActiveCardMicroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ActiveCardMicroserviceApplication.class, args);
+		System.out.println("test git action v02 push from project");
 	}
 
 }
